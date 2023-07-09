@@ -34,7 +34,7 @@ a{
 
 
 
-body {
+body{
   font-family: "Oswald", sans-serif;
   font-size: 1.2em;
   text-align: justify;
@@ -51,21 +51,3 @@ body {
   width: 130px; 
 }
 
-
-
-
-.formulario {
-  width: 70%;
-  background-color: #9B9B9B;
-  padding: 2rem;
-  border-radius: 0.5rem;
-  margin: auto;
-  margin-top: 2rem;
-}
-
-/* .espacionav{
-  width: 100%;
-
-  justify-content: space-evenly;
-
-} */

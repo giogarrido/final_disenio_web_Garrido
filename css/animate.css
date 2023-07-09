@@ -1,0 +1,80 @@
+/* 
+Giovanni Garrido
+Proyecto Final
+Diseño Web
+04/07/23
+*/
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header,
+section,
+footer,
+main,
+aside,
+nav,
+article,
+div {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Caprasimo";
+  text-align: center;
+  padding: 0.5em 0;
+}
+
+a{
+  font-family: "Caprasimo";
+}
+
+
+
+body {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.2em;
+  text-align: justify;
+  background-color: #F1F1F1;
+  color: #0294FD ;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-menu {
+  background-color: #82BFEB;
+}
+.navbar-brand{
+  width: 130px; 
+}
+
+
+
+.items {
+  width: 90%;
+  box-shadow: 0px 5px 15px 0px rgba(112, 112, 112, 0.48);
+  background-color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.formulario {
+  width: 70%;
+  background-color: #9B9B9B;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+/* .espacionav{
+  width: 100%;
+
+  justify-content: space-evenly;
+
+} */
